@@ -1,0 +1,10 @@
+numpy
+matplotlib
+sklearn
+scipy
+pillow
+Flask
+Keras
+tensorflow-gpu
+opencv-python
+
